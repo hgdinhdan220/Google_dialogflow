@@ -1,0 +1,5 @@
+What is the weather forecast?
+What's the temperature like in Milan?
+What is the weather in Sydney?
+Is it raining in Paris?
+tell me weather condition now in Ottawa
